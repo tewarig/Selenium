@@ -1,6 +1,6 @@
 
 
-# setps to setup
+# steps to setup
 (make sure you have install node)
 
 ```npm i ```
