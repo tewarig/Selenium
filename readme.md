@@ -3,8 +3,8 @@
 # steps to setup
 (make sure you have install node)
 
-```npm i ```
-``` node login.js```
-to run login page
-``` node signUp.js ```
-to run signUp page
+```npm i ``` <br/>
+``` node login.js``` <br/>
+to run login page   <br/>
+``` node signUp.js ``` <br/>
+to run signUp page <br/>
